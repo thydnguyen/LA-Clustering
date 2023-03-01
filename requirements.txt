@@ -1,0 +1,6 @@
+numpy==1.18.5
+scikit-learn==0.21.3
+matplotlib==3.1.1
+numba==0.45.1
+geom-median==0.1.0
+scikit-learn-extra==0.2.0
